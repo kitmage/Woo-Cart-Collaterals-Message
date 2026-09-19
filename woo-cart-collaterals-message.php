@@ -1,9 +1,11 @@
 <?php
 /**
- * Plugin Name: Woo Cart Collaterals Message
+ * Plugin Name: KitMage Woo Cart Collaterals Message
  * Description: Adds rule-based custom HTML messages to the WooCommerce cart collaterals area based on cart product IDs.
  * Version: 1.0.0
- * Author: Codex
+ * Author: Mike@KitMage
+ * URI: https://kitmage.com
+ * Author URI: https://kitmage.com
  * Text Domain: woo-cart-collaterals-message
  * Requires Plugins: woocommerce
  *
